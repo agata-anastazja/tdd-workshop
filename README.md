@@ -1,6 +1,6 @@
-# From FizzBuzz to React, Practical Test Driven Development in JavaScript
+# Test Driven Development in JavaScript and React
 
-Complete code for the [blog post found here](https://).
+This is a set-up project for TDD katas
 
 ## Getting started
 
